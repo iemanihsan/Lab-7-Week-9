@@ -32,7 +32,7 @@ This is our task this week where we need to create the user interface for ATM ma
 ![Screenshot 2022-11-07 at 11 21 32 PM](https://user-images.githubusercontent.com/71769701/200347573-bf577967-fd02-49fb-83e5-b30eed3c588a.png)
 
 11...
-
+![Screenshot 2022-11-08 at 12 17 07 AM](https://user-images.githubusercontent.com/71769701/200360292-f00f2db8-9414-4628-b915-3e1bb6fcfb31.png)
 
 12. The loading screen comes up until the transaction process finish to go to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200351465-78e80d76-c675-4feb-a5aa-f11633e03b8a.png)
