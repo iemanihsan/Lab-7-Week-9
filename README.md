@@ -58,3 +58,17 @@ This is our task this week where we need to create the user interface for ATM ma
 19. The loading screen comes up until the transaction process finish to go to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200352983-fa4298ab-b2fe-4be2-9010-5bb4c9580410.png)
 
+20. The atm ask for confirmation details of the user before proceeding to next part. The user can choose to confirm the details and proceed or to cancel the transaction.
+![IMG_0275](https://user-images.githubusercontent.com/117238649/200366362-a23467ec-04c5-499f-be3f-10c3ec126627.jpeg)
+
+21. The atm shows screen that tells the transaction is taking place.
+![IMG_0276](https://user-images.githubusercontent.com/117238649/200367109-f490b62a-ce18-4636-a050-2e3f8ac6e721.jpeg)
+
+22. The atm displays screen that ask user to save the bill in registered list or not.
+![IMG_0277](https://user-images.githubusercontent.com/117238649/200367878-ffd4feb1-4682-4725-ad67-f0dcc1394ad3.jpeg)
+
+23. the atm tells the user to wait as the transaction is being processed. 
+![IMG_0276](https://user-images.githubusercontent.com/117238649/200368094-308e1d9f-5ebf-4978-8106-00997a1e529b.jpeg)
+
+24. the screen shows that the payment is done and the user can take back the card.
+![IMG_0279](https://user-images.githubusercontent.com/117238649/200368354-0def16d9-bad4-46c3-91dd-37b8c8248629.jpeg)
