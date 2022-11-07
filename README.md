@@ -32,21 +32,21 @@ This is our task this week where we need to create the user interface for ATM ma
 ![Screenshot 2022-11-07 at 11 21 32 PM](https://user-images.githubusercontent.com/71769701/200347573-bf577967-fd02-49fb-83e5-b30eed3c588a.png)
 
 11...
-![image](https://user-images.githubusercontent.com/83638616/200350299-934c9384-882b-4175-853e-7865e4eff52b.png)
 
-12...
+
+12. The loading screen comes up until the transaction process finish to go to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200351465-78e80d76-c675-4feb-a5aa-f11633e03b8a.png)
 
-13. The loading screen comes up until the transaction process finish to go to next page.
+13. Then, the ATM asks the user for their policy number, and user must choose "PRESS IF CORRECT" after entering the policy number to proceed to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200351714-514f2ceb-2570-4100-ad60-477c3dff9c0b.png)
 
-14. Then, the ATM asks the user for their policy number, and user must choose "PRESS IF CORRECT" after entering the policy number to proceed to next page.
+14. The loading screen comes up until the transaction process finish to go to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200352186-64185203-f8b4-4528-8b11-13d1fb926d04.png)
 
-15. The loading screen comes up until the transaction process finish to go to next page.
+15. The ATM then asks the user what payment type to select, and user must choose "PRESS IF CORRECT" after selecting to proceed to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200352268-5b6fdc3c-d7ac-4052-854c-c10aaa16c8ae.png)
 
-16. The ATM then asks the user what payment type to select, and user must choose "PRESS IF CORRECT" after selecting to proceed to next page.
+16. The loading screen comes up until the transaction process finish to go to next page.
 ![image](https://user-images.githubusercontent.com/83638616/200352534-fa48c10a-903f-4c90-a6f5-0bd8e3bdb182.png)
 
 17. The loading screen comes up until the transaction process finish to go to next page.
